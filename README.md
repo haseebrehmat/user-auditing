@@ -1,4 +1,4 @@
-# 📖 About The Project
+# 📖 User Auditing
 
 This project is a FastAPI-based application for managing user profiles with a full audit log. It ensures that all changes to user profiles are logged for auditing purposes, even when users are updated or deleted. The application integrates PostgreSQL for data persistence and is containerized using Docker.
 
@@ -24,8 +24,8 @@ This project is a FastAPI-based application for managing user profiles with a fu
 
 2. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git clone git@github.com:haseebrehmat/user-auditing.git
+   cd user-auditing
    ```
 
 ---
