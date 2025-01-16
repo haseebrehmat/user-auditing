@@ -1,0 +1,32 @@
+# Python Bytecode
+__pycache__/
+*.py[cod]
+
+# Virtual Environment
+venv/
+.env/
+
+# Database Files
+*.db
+*.sqlite3
+
+# Docker Files
+docker-compose.override.yml
+*.log
+
+# Environment Variables
+.env
+
+# IDE and Editor Files
+.vscode/
+.idea/
+*.swp
+*.sublime-project
+*.sublime-workspace
+
+# Miscellaneous
+*.DS_Store
+*.egg-info/
+dist/
+build/
+postgres_data/
